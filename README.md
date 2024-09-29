@@ -41,14 +41,14 @@ To run the code, ensure you have the required trace files in the correct format.
 ```sh
 git clone "https://github.com/ashkntarivrdi/Reuse-Distance-Analysis"
 ```
-2. **Change directory**
+2. **Change directory**:
 ```sh
 cd Reuse-Distance-Analysis
 ```
 
 3. **Ensure the trace files are in the working directory**
 
-4. **Run the script**
+4. **Run the script**:
 ```sh
 python main.py
 ```
